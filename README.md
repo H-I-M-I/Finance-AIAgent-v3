@@ -1,5 +1,5 @@
 # Finance-AIAgent-v3
 
 Stock Market analysis:
-- Utilizing yahoo finance to run comparative analysis
-- Generating a small summary report
+- Utilized yahoo finance to run comparative analysis
+- Generated a small summary report
